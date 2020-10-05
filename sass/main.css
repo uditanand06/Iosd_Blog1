@@ -364,6 +364,7 @@ body {
 
 .blog {
   width: 75%;
+  height: 30rem;
   margin: 0 auto;
   -webkit-box-shadow: var(--shadow-light);
           box-shadow: var(--shadow-light);
